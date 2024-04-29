@@ -1,6 +1,6 @@
 {
     "functions": {
-        "djangoProject12323/**/*.py": {
+        "api/**/*.py": {
             "runtime": "@vercel/python@3.11.3"
         },
         "djangoProject12323/manage.py": {
@@ -11,7 +11,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "djangoProject12323/wsgi.py"
+            "dest": "api/djangoProject12323/wsgi.py"
         }
     ]
 }
