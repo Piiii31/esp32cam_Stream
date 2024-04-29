@@ -17,7 +17,7 @@ Including another URLconf
 
 from django.urls import path
 
-from djangoProject12323.views import videofeed
+from api.views import videofeed
 
 urlpatterns = [
     path('videofeed/', videofeed, name='videofeed'),
