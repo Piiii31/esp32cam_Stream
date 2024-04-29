@@ -1,6 +1,6 @@
 {
     "functions": {
-        "api/**/*.py": {
+        "djangoProject12323/**/*.py": {
             "runtime": "vercel/python3.11"
         }
     },
