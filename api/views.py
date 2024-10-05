@@ -8,7 +8,7 @@ import cv2
 import numpy as np
 
 # Replace the URL with the IP camera's stream URL
-url = 'https://lightly-huge-mantis.ngrok-free.app/cam-lo.jpg'
+url = ''
 
 # Create a queue to hold the frames
 frame_queue = queue.Queue()
