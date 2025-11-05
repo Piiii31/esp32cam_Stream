@@ -1,0 +1,3 @@
+- **Real-time Video Streaming**: Stream live video frames captured by the ESP32-CAM.
+- **Web Interface**: A simple and responsive web interface for viewing the video stream.
+- **Django Backend**: Utilizes Django to handle the streaming and web requests.

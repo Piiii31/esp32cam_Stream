@@ -1,0 +1,1 @@
+The **ESP32-CAM Streaming with Django** project is designed to demonstrate how to capture and stream video frames from an ESP32-CAM to a web application. This integration provides users with the ability to monitor their surroundings remotely and in real-time.

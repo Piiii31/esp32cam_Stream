@@ -1,0 +1,5 @@
+{
+  
+  "backend": ["Django","Python"],
+  "others": ["ESP32-CAM"]
+}
